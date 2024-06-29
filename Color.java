@@ -1,5 +1,5 @@
 /*
- *	Color class
+ *	Color class 
  */
 public class Color{
 	private String color;
