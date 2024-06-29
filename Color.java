@@ -1,4 +1,7 @@
 /*
+ *	Name: Karim Hakki
+ *	Email: hakki@wisc.edu
+ *	CS Account User Name: hakki
  *	Color class 
  */
 public class Color{
